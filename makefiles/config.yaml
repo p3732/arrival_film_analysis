@@ -1,0 +1,40 @@
+---
+title-meta: Film Analysis - Depiction of Free Will in Denis Villeneuve's Arrival
+author: Peter Eisenmann
+
+titlepage: false
+
+lang: en
+fontsize: 11pt
+linestretch: 1.5 # line spacing
+documentclass: scrreprt
+top-level-division: chapter
+toc: true # table of contents
+toc-depth: 2 #chapter depth to list in table of contents
+lof: false # list of figures
+lot: false # list of tables
+secnumdepth: 2
+
+# crossref custumization
+figPrefix: ["Figure", "Figures"]
+eqnPrefix: ["Eq.", "Eqns."]
+tblPrefix: ["Tbl.", "Tbls."]
+secPrefix: ["Section", "Sections"]
+# TODO: chapter prefix
+autoEqnLabels: false
+cref: true
+bibliography: makefiles/references.yaml
+# find citation styles at https://www.zotero.org/styles
+citation-style: makefiles/ieee-with-url-no-online.csl
+reference-section-title: Bibliography
+header-includes:
+    \usepackage[ruled,vlined,linesnumbered]{algorithm2e}
+    \usepackage{amssymb}
+    \usepackage{pdfpages}
+subparagraph: true
+include-before: |
+    \pagebreak
+    \begin{titlepage}
+        \includepdf[pages={1}]{cover/cover.pdf}
+    \end{titlepage}
+---
