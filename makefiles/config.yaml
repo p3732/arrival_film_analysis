@@ -28,8 +28,6 @@ bibliography: makefiles/references.yaml
 citation-style: makefiles/ieee-with-url-no-online.csl
 reference-section-title: Bibliography
 header-includes:
-    \usepackage[ruled,vlined,linesnumbered]{algorithm2e}
-    \usepackage{amssymb}
     \usepackage{pdfpages}
 subparagraph: true
 include-before: |
