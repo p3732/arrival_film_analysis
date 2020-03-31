@@ -1,0 +1,2 @@
+\footnotesize
+\setstretch{1}
