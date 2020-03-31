@@ -1,7 +1,7 @@
 # Communication
 In 1977 mankind launched the Voyager Golden Records, an effort to share a broad picture of humans and life on earth with extraterrestrials.
 These records might be the most famous nonfictional attempt at communicating with aliens.
-The compilation of the records' contents was supervised by astrophysicist Carl Sagan, who later went on to write the source material for the 1997 movie _Contact_.
+The compilation of the records' contents was supervised by astrophysicist Carl Sagan, who later went on to write the source material for the 1997 movie _Contact_ [@contact].
 In reviews it is often named as a reference for _Arrival_, as they have many parallels:
 both have a strong female lead, both are calm and intelligent counterexamples to classic action-driven 'hostile aliens' movies and, most notably, both revolve around the theme of communication.
 
@@ -22,7 +22,7 @@ Not only do the aliens need a different composition of atmosphere to breathe, th
 While Louise, Ian and the military crew stand on their side with a vastness of technology and protective hazard suits, the Heptapods are just there, without any tools or utilities.
 The only 'technology' that they seem to have, are the big pebble-shaped spaceships they came in, which by comparison with classic depictions of UFOs in other works of science fiction, don't have a particular technological feel to them either.
 Instead the spaceships, as well as their navigators, appear mysterious.
-This was very well intended according to director Villeneuve, who wanted the aliens to have a "strong instinctive presence" much like a whale or an elephant [@interview-villeneuve] (at 5:15).
+This was very well intended according to director Villeneuve, who wanted the aliens to have a "strong instinctive presence" much like a whale or an elephant [@interview-villeneuve, at 5:15].
 
 So from the perspective of the aliens, offering a 'weapon' could have a clearly defined meaning, since their language apparently is the only tool they posses.
 It is even foreshadowed that this 'weapon' is language, when Ian is introduced and reads the preface of Louise's book, quoting her that language "is the first weapon drawn in a conflict".
@@ -60,7 +60,7 @@ The video stream is surrounded by advertisements, mostly for guns, another on po
 The snippet of the show ends with a call to arms against the aliens, over which Marks and his comrade exchange affirmative glances.
 Instead of merely sharing the show with others, which would already be problematic enough and one of the major issues that helps the vicious circle of 'fake news' to continue [@ieee], Marks follows through on the propagated preemptive strike against the aliens.
 
-Comparing the depiction of 1950s society in _The Day the Earth Stood Still_ with nowadays society depicted in _Arrival_, their reactions are not actually all that different though.
+Comparing the depiction of 1950s society in _The Day the Earth Stood Still_ [@earth] with nowadays society depicted in _Arrival_, their reactions are not actually all that different though.
 In both the invaders are met with fear and in both movies an action of the aliens is misinterpreted by a soldier, causing tension.
 The key difference however is the reason for the aggression.
 The 1950s military tries (and fails) to make short work of the aliens mere minutes after they arrived, because a nervous soldier shots the alien when it made an unexpected move.
@@ -69,7 +69,7 @@ The possible reasons for this are manifold, but the movie shows that the sensati
 
 This sociopolitical commentary, that was just as true back in 2016 during the movie's theatrical release, can still be applied to current day time.
 During the 2019/2020 Corona virus epidemic[^crisis], 'fake news' were still a major problem [@corona-fake].
-Director Denis Villeneuve comments that "civilization is more fragile than ever" and that despite being more connected, it seems that mankind actually communicates less [@interview-villeneuve] (at 15:31).
+Director Denis Villeneuve comments that "civilization is more fragile than ever" and that despite being more connected, it seems that mankind actually communicates less [@interview-villeneuve, at 15:31].
 But unlike in _The Day the Earth Stood Still_, where the aliens leave earth with a threat, _Arrival_ ends on a more optimistic note in relation to intergalactic affairs.
 
 In the beginning Louise is very confused by her visions, in one of them even asking Hannah what day it is.
@@ -90,5 +90,5 @@ The words Louise speaks to Shang are not actually subtitled, but according to He
 A simple wisdom that resolves all previous tension and aggression, bringing the movie's Sci-Fi story to a conclusion.
 
 [^nuclear]: The conclusion of the Cold War: There would not be any winners in a world with the amount of currently existing nuclear weapons.
-[^shop]: Or in case of _The Alex Jones Show_ selling overpriced goods that can't hold up to their claimed effects.
+[^shop]: Or in case of _The Alex Jones Show_, selling overpriced goods that can't hold up to their claimed effects.
 [^crisis]: An epidemic can somewhat be seen as an invasion, just not by aliens but by viruses.
