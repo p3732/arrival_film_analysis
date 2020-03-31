@@ -4,18 +4,18 @@ The movie adaptation follows suit by closely following Louise and featuring her 
 The camera commonly focuses on Louise, often as a reaction shot, or follows her gaze from a third-person perspective, making the viewer see most things from her perspective.
 This is especially true for all scenes involving Hannah.
 
-The relationship between Louise and her daughter is "the heart of movie", as director Denis Villeneuve puts it [@interview-villeneuve] (at 08:16).
+The relationship between Louise and her daughter is "the heart of movie", as director Denis Villeneuve puts it [@interview-villeneuve, at 08:16].
 It is the counterweight to the Sci-Fi part of the movie and makes the story feel more relatable and quite literally 'down to earth'.
-Villeneuve therefore describes _Arrival_ as a "dirty Sci-Fi" movie, that tries to realistically depict the events, so that it feels like they could happen "on a bad Tuesday morning". [@interview-villeneuve] (at 09:03)
+Villeneuve therefore describes _Arrival_ as a "dirty Sci-Fi" movie, that tries to realistically depict the events, so that it feels like they could happen "on a bad Tuesday morning". [@interview-villeneuve, at 09:03]
 To follow along with this realism the movie does not use any technology that does not already exist today.[^scripts]
 
-_Arrival_ hereby follows in the steps of _Solaris_, which was Andrei Tarkovsky counterexample to Stanely Kubrick's _2001: A Space Odyseey_.
+_Arrival_ hereby follows in the steps of _Solaris_ [@solaris], which was Andrei Tarkovsky counterexample to Stanely Kubrick's _2001: A Space Odyseey_ [@2001].
 Tarkovsky states that Kubrick's movie relies too heavily on technology and thus lacks compassion and emotions.
-Or as Tarkovsky phrases it himself: "the technological processes of the future transforms the emotional foundation of a film, as a work of art, into a lifeless schema" [@solaris].
+Or as Tarkovsky phrases it himself: "the technological processes of the future transforms the emotional foundation of a film, as a work of art, into a lifeless schema" [@solaris-interview].
 
 \pagebreak
 
-Much like _Close Encounters of the Third Kind_ by Steven Spielberg, named as an influence by screenwriter Eric Heisserer [@interview-heisserer] (at 23:58), _Arrival_ follows Tarkovsky vision and focuses on relatable human lives and emotions.
+Much like _Close Encounters of the Third Kind_ by Steven Spielberg [@encounters], named as an influence by screenwriter Eric Heisserer [@interview-heisserer, at 23:58], _Arrival_ follows Tarkovsky vision and focuses on relatable human lives and emotions.
 On multiple occasions throughout the movie scenes with potential for dramatic action are skipped entirely or postponed to a later point.
 This not only allows for buildup of tension, but also enables scenes to focus on characters' emotions and reactions.
 
@@ -74,4 +74,4 @@ But the closed curtain symbolizes that she will not receive any more help from t
 [^scripts]: Even the programs with which the logograms are analyzed were created and are not mere fabrications by visual artists. See
 https://www.christopherwolfram.com/arrival, accessed 25.03.2020
 [^helmets]: Despite such lights being impractical, as all they would achieve is blinding the helmet's wearer.
-[^third]: Coincidence or subtle nod to _Encounters of the Third Kind_
+[^third]: Coincidence or subtle nod to **_Encounters_** _of the_ **_Third_** _Kind_
