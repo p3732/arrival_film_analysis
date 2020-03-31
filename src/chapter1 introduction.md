@@ -1,36 +1,31 @@
 # Introduction
-The twist at the ending of ___Arrival___ not only causes the viewer to reinterpret everything before it, but also lets the viewer know the ending of the story.
+The twist at the ending of _Arrival_ not only causes the viewer to reinterpret everything before it, but also lets the viewer know the ending of the story.
 This aligns the viewer's experience with that of the protagonist.
 Both have gained knowledge of an inevitable future, the death of the protagonist's unconceived child.
 This knowledge takes away the ability to impact the outcome, thus stripping both, the viewer and the protagonist, of their Free Will.
 
 However the gravity of this revelation is very different.
 For the viewer this merely means loosing the suspense of an open ending where they would have to decide for themselves which of the tragic choices the protagonist takes.
-For Louise, the protagonist, the consequences are of a much more fundamental nature, best explained by analyzing the different facets of ___Arrival___.
+For Louise, the protagonist, the consequences are of a much more fundamental nature, best explained by analyzing the different facets of _Arrival_ [@arrival].
 
-The setup of ___Arrival___ is that of a classical invasion movie.
+The setup of _Arrival_ is that of a classical invasion movie.
 Traditionally this setting is used as a background for fast-paced action and military conflict.
-Its earliest example, H. G. Wells' ___The War of the Worlds___ from 1898,
-<!--TODO reference-->
-already portrays aggressive aliens invading earth.
+Its earliest example, H. G. Wells' _The War of the Worlds_ from 1898 [@war-of-worlds], already portrays aggressive aliens invading earth.
 The idea most likely stems from British imperialism and a time when most 'western' European nations had colonies in Africa.
 In the work, the purpose of the alien invasion of Earth is that of the colonists invasion of Africa:
 Harvesting resources and exploiting people.
 
-Besides several movie and TV series adaptions, ___The War of the Worlds___ also inspired many other works.
-Because of this, aliens are commonly portrayed as hostile invaders, for example in titles such as ___The Day the Earth Stood Still___ (1951), ___They Live___ (1988), ___Independence Day___ (1996), ___Mars Attacks___ (2011), ___Edge of Tomorrow___ (2014) or ___A Quiet Place___ (2018).
+Besides several movie and TV series adaptions, _The War of the Worlds_ also inspired many other works.
+Because of this, aliens are commonly portrayed as hostile invaders, for example in titles such as _Invasion of the Body Snatchers_ (1956), _They Live_ (1988), _Independence Day_ (1996), _Mars Attacks_ (1996), _Edge of Tomorrow_ (2014) or _A Quiet Place_ (2018) [@bodysnatcher; @theylive; @independenceday; @marsattacks; @edge; @quietplace].
 Oftentimes the aggressors are given a hive mind form, stripping them of their individuality and any relatable human features, reducing them to nothing but an antipathic opponent for the protagonists.
 
-<!--„Independence Day“ Dean Devlin (written by) & Roland Emmerich (written by) -->
-<!--Battle Los Angeles  Director: Jonathan Liebesman, Writer: Christopher Bertolini-->
-
-___Arrival___ plays with this trope of hostile aliens.
+_Arrival_ plays with this trope of hostile aliens.
 Louise Banks, a renowned linguist, and Ian Donnelly, a well-received physicist, are tasked by the US military with uncovering the intentions behind the aliens' visit to earth.
 In order to answer the central question of "Why are they here?", they have to learn how to communicate with the aliens.
 After making progress and building some common vocabulary with the aliens, they are pressured by the military to prematurely ask the question to the aliens.
 The answer is ambiguous, due to lack of knowledge about the alien's language.
 Its ambiguity creates military tension, especially since other alien landing sites, of which there is twelve in total, got similarly uncertain answers and now plan on attacking the intruders.
-But instead of presenting the viewer with a feast of action scenes, explosions and the armies of the world fighting off the invaders, ___Arrival___ lets its protagonist Louise resolve the crisis through communication.
+But instead of presenting the viewer with a feast of action scenes, explosions and the armies of the world fighting off the invaders, _Arrival_ lets its protagonist Louise resolve the crisis through communication.
 
 The prologue showed a montage of the short life of Hannah, Louise's daughter.
 She dies at the very young age of 12, leaving Louise in a state of sorrow.
@@ -51,10 +46,10 @@ Ian also turns out to be Hannah's father, who, as shown throughout previous visi
 He does so because Louise tells him that she knows about Hannah's early death through visions.
 Ian disagrees with Louise, blaming her for making the wrong choice to have a baby despite knowing how short Hannah will live.
 
-In the following it is discussed if this accusation of making a wrong choice is justified and what it reveals about the depiction of Free Will in ___Arrival___.
-Chapter 2 lays the groundwork by examining how throughout its story ___Arrival___ focuses on emotions of its characters.
-Chapter 3 focuses on communication, the movie's central theme.
-In chapter 4 the two previous points are compared with the effects of the Heptapod language to see how ___Arrival___ portrays Free Will.
+In the following it is discussed if this accusation of making a wrong choice is justified by analyzing the depiction of Free Will in _Arrival_.
+Chapter 2 lays the groundwork by examining how the movie focuses on its characters' emotions throughout the story.
+Chapter 3 focuses on communication, the _Arrival_'s central theme.
+In chapter 4 the two previous points are compared with the effects of the Heptapod language to see how the movie portrays Free Will.
 It also discusses the aforementioned accusation.
-Chapter 5 concludes by analyzing how ___Arrival___ uses the deterministic nature of movies for its narrative structure.
+Chapter 5 concludes with a brief summary of how _Arrival_ uses the deterministic nature of movies for its narrative structure.
 
