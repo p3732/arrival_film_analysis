@@ -1,7 +1,7 @@
 # Introduction
 The twist at the ending of _Arrival_ not only causes the viewer to reinterpret everything before it, but also lets the viewer know the ending of the story.
 This aligns the viewer's experience with that of the protagonist.
-Both have gained knowledge of an inevitable future, the death of the protagonist's unconceived child.
+Previously both have unknowingly gained awareness of an inevitable future, the death of the protagonist's unconceived child.
 This knowledge takes away the ability to impact the outcome, thus stripping both, the viewer and the protagonist, of their Free Will.
 
 However the gravity of this revelation is very different.

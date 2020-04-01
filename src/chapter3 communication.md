@@ -5,6 +5,7 @@ The compilation of the records' contents was supervised by astrophysicist Carl S
 In reviews it is often named as a reference for _Arrival_, as they have many parallels:
 both have a strong female lead, both are calm and intelligent counterexamples to classic action-driven 'hostile aliens' movies and, most notably, both revolve around the theme of communication.
 
+## The Problems
 In _Arrival_ this theme is reflected upon in several ways.
 With the protagonist, Louise, being a linguist set to save the world using her academic expertise, many problems that need to be resolved by her are bound to revolve around communication.
 The core problems of the Sci-Fi narrative can be attributed to three different issues of miscommunication.
@@ -16,7 +17,8 @@ A __misinterpretation__ of the aliens intentions by the nations around the globe
 The nations, having previously overcome their language barriers to cooperate and exchange information on the aliens, start to to __mistrust__ each other because of unclear positions and fear of retaliation by the aliens.
 The third communication problem stays in the background throughout most of the movie and can best be described by its modern term, __'fake news'__, resulting in an attack against the peaceful alien visitors.
 
-The __misinterpretation__ of the aliens' message  is quite clearly caused by a language barrier.
+### Misinterpretation
+The misinterpretation of the aliens' message  is quite clearly caused by a language barrier.
 Much like its counterpart, the physical barrier existing between Louise and the visitors, it most likely stems from a fundamental difference between humans and aliens.
 Not only do the aliens need a different composition of atmosphere to breathe, they also are portrayed to live lives greatly distinct to human lives.
 While Louise, Ian and the military crew stand on their side with a vastness of technology and protective hazard suits, the Heptapods are just there, without any tools or utilities.
@@ -27,12 +29,13 @@ This was very well intended according to director Villeneuve, who wanted the ali
 So from the perspective of the aliens, offering a 'weapon' could have a clearly defined meaning, since their language apparently is the only tool they posses.
 It is even foreshadowed that this 'weapon' is language, when Ian is introduced and reads the preface of Louise's book, quoting her that language "is the first weapon drawn in a conflict".
 
+### Mistrust
 The military has an equally limited perspective.
 From the get go it is suspicious of the aliens intentions, even fearing the atmosphere in the spaceship, in which humans are able to breath, is a trap to eventually suffocate sent messengers.
 The army also restricts Louise to only using a predefined list of words, in fear that if given too much knowledge about mankind, the aliens could abuse that information.
 It is quite possible that this lack of vocabulary led to the ambiguity of the received message "offer weapon", which the different nations of earth promptly interpreted to mean many things, ranging from a demand to be offered a weapon by humans, to the starting signal for a global _Battle Royale_ [@battle_royale] among all nations.
 
-With the military's __mistrust__ fired up across all landing sites, the established international communication via video telephony comes to a halt.
+With the military's mistrust fired up across all landing sites, the established international communication via video telephony comes to a halt.
 The used setup of communication allowed for facial expressions and gestures to aid in overcoming the language barrier.
 It shows that the military has insight into the importance of using multiple communication channels, and knows not to limit communication to audio or text feeds.
 
@@ -43,6 +46,7 @@ Even in a scenario where the aliens plan to rile up the nations into waging war 
 However, it can be argued that on an emotional level such a reaction is very likely, as the uncertainty of this strange, never before existing situation can lead to anything.
 Especially when the public is panicked and the people making the decisions are pressured into a reaction.
 
+### 'Fake News'
 Indeed it is shown at several points that the public is panicked about the arrival of the spaceships.
 The subplot involving Captain Marks, and several minor characters of the military, is strongly related to this.
 In an attempt to kill the invaders, Marks launches an unauthorized offensive by placing a bomb inside the spaceship.
@@ -52,7 +56,7 @@ How Marks and his men got to the point of despair that led them to these actions
 Shown media coverage of the spaceship landings is often speculative and sensational, fueling public hysteria.
 Presumably shaken up by such reports, Marks' partner calls him, telling him how she is scared and distressed and he has trouble calming her down.
 Later on, Marks himself looks very unnerved during the scenes in the alien spaceship and notably wants to quit the session when Louise takes off her hazard suit.
-But the most striking scene that hints at the later fallout features Marks and another soldier watching a __'fake news'__ broadcast show.
+But the most striking scene that hints at the later fallout features Marks and another soldier watching a 'fake news' broadcast show.
 
 The show parallels _The Alex Jones Show_ in many ways, picking up on elements such as the aggressive undertone, an unstoppable rage against the government and strong pro-gun views.
 The actor of the show host also bares a strong resemblance to the real life host.
@@ -72,6 +76,7 @@ During the 2019/2020 Corona virus epidemic[^crisis], 'fake news' were still a ma
 Director Denis Villeneuve comments that "civilization is more fragile than ever" and that despite being more connected, it seems that mankind actually communicates less [@interview-villeneuve, at 15:31].
 But unlike in _The Day the Earth Stood Still_, where the aliens leave earth with a threat, _Arrival_ ends on a more optimistic note in relation to intergalactic affairs.
 
+## The Resolution
 In the beginning Louise is very confused by her visions, in one of them even asking Hannah what day it is.
 As she becomes more familiar with the Heptapod language, the visions become more frequent.
 She slowly learns that she can interact with the visions, which is fully revealed to her by a vision of Hannah wanting to know a specific term.
