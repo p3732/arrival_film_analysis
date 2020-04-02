@@ -40,12 +40,12 @@ Due to the Kuleshov effect, the viewer thinks of Louise as a sad person that has
 Accordingly all perception of further scenes with Hannah are equally perceived as flashbacks, making Louise appear to be in mourning rather than having inexplicable visions.
 
 ## The Appeal of the Unknown {#twothree}
-In reality Louise simply is a calm and timid person, that leads a mundane, fearful life.
+In reality Louise simply is a calm and timid person, that leads a sheltered, mundane life.
 Actress Amy Adams describes her character as having "a profound loneliness" [@interview-amy-denis, at 12:20].
 And indeed she is lonely, as she, with a bit of sadness in her voice, reveals to Ian that she never had any real romantic relationships, despite her communication skills.
-What is perceived as grief, could just be signs of loneliness, as indicate by a scene of Louise sleeping with a body pillow.
+What is perceived as grief, could just be signs of loneliness, as indicated by a scene of Louise sleeping with a body pillow.
 
-Louise's fearful character is displayed at the very beginning, when she walks by a big crowd of people gathering around a TV, too modest to see what is going on.
+Louise's timid character is displayed at the very beginning, when she walks by a big crowd of people gathering around a TV, too modest to see what is going on.
 During the evacuation of the campus Louise is so unsettled, she gets startled by a car crash.
 She soothes her mother on the phone, saying she should stay composed like her.
 But actually Louise is not all that calm and is atypically interested in the alien landings.
@@ -53,7 +53,7 @@ So much so, that she spends the rest of the day watching the news, even falls as
 
 On the next day, stuck in her routine, Louise returns to an otherwise empty university.
 There she is visited by a colonel, who is searching to recruit a linguist for the army, to aid in communicating with the aliens.
-With her interest spiked, Louise tries and success in convincing him to pick her over another candidate.
+With her interest spiked, Louise tries and succeeds in convincing him to pick her over another candidate.
 
 Thus the viewer gets to follow Louise on her journey to meet the unknown.
 Arriving at the military base, where the camera closely follows Louise through the hallways, she gets prepared for meeting the aliens.

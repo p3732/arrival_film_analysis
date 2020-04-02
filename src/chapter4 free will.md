@@ -74,9 +74,9 @@ But what implications does this have for the characters' free wills?
 
 ## The Choices
 The following is an analysis of how and on what basis characters make decisions during the story and whether they act the way they do because of free will or because they are determined to.
-As what lead captain Marks to make the decision of placing a bomb inside the spaceship has already extensively been dealt with in the previous chapter, the remaining three major choices to be investigated are:
+As what lead Captain Marks to make the decision of placing a bomb inside the spaceship has already extensively been dealt with in the previous chapter, the remaining three major choices to be investigated are:
 
-* The Heptapod's choice to come to earth.
+* The Heptapod's choice to come to Earth.
 
 * Ian's choice to leave Louise.
 
@@ -92,54 +92,65 @@ In the movie the reason is given as "In three thousand years - we need humanity 
 The final shooting draft of the script contains a different phrasing of this scene, more fitting with the timeless way in which the aliens think, but it was probably cut due to length.
 There Costello replies with "Three thousand years from this point, humanity helps us. We help humanity now. Returning the favor." [@script, p. 102].
 
-The reason the aliens are on earth, is thus simply because it is necessary for history to play out the way it will.
-They need to travel to earth, so that the people of earth can in return help them 3000 years in the future.
+The reason the aliens are on Earth, is thus simply because it is necessary for history to play out the way it will.
+They need to travel to Earth, so that the people of Earth can in return help them 3000 years in the future.
 Or the other way round, since mankind helps them, they need to help mankind 3000 years before that.
 Much like in the short story, the aliens in the movie adaption don't have any sort of free will and no need for it either.
 They merely act like pawns, enacting the history they know will happen.
 
 A good example of this is the last encounter with Abbott.
-Louise is encouraged to draw a logogram on the barrier, but since it at that point she still has a linear perception of time, she can only draw it starting from one side.
+Louise is encouraged to draw a logogram on the barrier, but since at that point she still has a linear perception of time, she can only draw it starting from one side.
 Abbott steps in and, without Louise ever stating what she intends to draw, completes the other half of the logogram.
-A further example is, how the aliens move their spaceship in the exactly right moment.
-When Louise suggests going back to the spaceship and apologize for the attack, it moves at precisely that moment.
-In the same way the spaceships leave earth at the very instant that the military tension is resolved.
+A further example is how the aliens move their spaceship in the exact right moment.
+When Louise suggests going back to the spaceship and apologizing for the attack, it moves at precisely that moment.
+In the same way the spaceships leave Earth at the very moment the military tension is resolved.
 Yet another, albeit darker, example of this is Abbott knowing of their death, but having no way of preventing it.
 
 ### Louise and Hannah
-As [previously](#twothree) discussed, before Louise got hired to communicate with aliens, she led a very fearful and mundane life.
-By learning the Heptapod language Louise breaks with her fear of the future, and "despite knowing the journey and where it leads", embraces and welcomes "every moment of it".
+As [previously](#twothree) discussed, before Louise got hired to communicate with aliens, she led a very sheltered and mundane life.
+By learning the Heptapod language Louise gets over her fear of the future, and "despite knowing the journey and where it leads", embraces and welcomes "every moment of it".
 With Ian and Hannah she will finally be loved and feel alive, things that she is deeply missing in her current life.
-As the famous quote by Alfred Tennyson goes, "'tis better to have loved and lost than never to have loved at all" and thus for Louise Hannah's death is by far outweighed by all the happy times to come.
-
+As the famous quote by Alfred Tennyson goes, "'tis better to have loved and lost than never to have loved at all" and thus for Louise all the happy times to come greatly outweigh Hannah dying.
 <!--This can be seen as another reason as to why Louise wants to have Hannah.-->
 <!--Hannah is portrayed as a happy kid, energetic, emotional and creative.-->
 <!--All these traits make her the exact opposite of the Heptapods, who are shown as plain, boring and emotionless beings, without any cultural objects or garnishments.-->
 <!--If having visions of the future made the aliens into what they are, then Louise might now value Hannah's spontaneity and creativity even more.-->
 
 But even if Louise embraces her future with Hannah, her choice merely 'coincide' with the determined future.
-At no point was there the possibility to decide against having Hannah, so it can not be said that Louise acted upon free will, but the reason for the future to be determined in the way that it is, is due to her will.
-Hence her future might be determined, but it is determined by her will.
+At no point was there a possibility to decide against having Hannah, so it can not be said that Louise acted upon free will.
+Still it is due to her will that the future plays out in this predetermined way.
 Thus she seems to only partly behave like a Heptapod, as she is enacting history the way she wants it to happen.
 
-So much like the quote of Schopenhauer from the beginning of this chapter, Louise can not will what she wills, but she can still will.
-And as the outcome is the same, the answer to the question of whether free will exists in _Arrival_ or not, is no, this does not have any impact on the characters, as their 'simulated' free will is all they need.
+\pagebreak
+
+So, much like in Schopenhauer's quote from the beginning of this chapter, Louise can not will what she wills, but she can still will.
+And as the outcome is the same, the answer to the question of whether free will exists in _Arrival_ or not, is no.
+But this does not impact the characters, as their 'simulated' free will is all they need.
 
 ### Ian and Louise
-Through her visions Louise knows that Ian will eventually break up with her.
-She also knows the reason, which will be that she tells Ian about knowing of Hannah dying at a young age.
-As Louise tells Ian that she has the knowledge from a vision, he knows that Louise did in fact not have a choice, as the vision simultaneously is the source of information as well as a guarantee that it will happen.
-And yet he blames Louise for having made the wrong choice.
-This error in logic is very obvious, so assuming it is not simply a plot hole, then why does Ian react this way?
+<!--Through her visions Louise knows that Ian will eventually break up with her.-->
+<!--She also knows the reason, which is her telling Ian about a different vision that she had, that of Hannah dying at a young age.-->
+<!--Ian knows that Louise's visions are guaranteed to happen.-->
+<!--So when Louise tells him about Hannah's premature death, he knows that Louise can not alter that future, since the vision simultaneously is both the source of information, and a guarantee that it will happen.-->
+<!--Through her visions Louise knows that Ian will eventually break up with her.-->
+<!--She also knows the reason, which is her telling Ian about a different vision that she had, that of Hannah dying at a young age.-->
+<!--Ian knows that Louise's visions are guaranteed to happen.-->
+<!--So when Louise tells him about Hannah's premature death, he , -->
+
+Through her visions, Louise knows that Ian eventually breaks up with her.
+He does so, because Louise tells him of having learnt from another vision, that Hannah will die at a very young age.
+Since the vision simultaneously is both the source of information, and a guarantee that it will come true, Ian by believing the vision also knows that Louise can not alter this future.
+Yet he blames Louise for having made the wrong choice.
+This error in logic is very apparent, so assuming it is not simply a plot hole, then why does Ian react this way?
 
 Louise is an introverted linguist, knowledgeable about communication and other cultures, able to speak several languages including Farsi and Mandarin.
 Ian on the other hand is portrayed as an outgoing physicist, experienced in sciences, especially maths and theoretical physics.
 From the first time they met, Louise and Ian are an unlikely couple.
 Indeed the first words they exchange are over whether science or language is the foundation of society.
 
-When accusing Louise of having, the wrong choice, Ian does not need to regard whether free will exists.
+When accusing Louise of having made the wrong choice, Ian does not need to regard whether free will exists.
 The choice that he disagrees with was still made by Louise, it just so happens that she knew beforehand that she was going to make it.
 And just like the knowledge about living in a deterministic world does not change anything about the responsibility for choices, neither does it change the validity of feelings.
-And Ian's choice to leave Louise is as fueled by emotions, as are the choice of captain Marks to attack the spaceships or that of Louise to have Hannah.
+And Ian's choice to leave Louise is as fueled by emotions, as are the choice of Captain Marks to attack the spaceships or that of Louise to have Hannah.
 All these choices might be determined, but they all are deeply human.
 
