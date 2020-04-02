@@ -1,11 +1,15 @@
 # Introduction
-The twist at the ending of _Arrival_ not only causes the viewer to reinterpret everything before it, but also lets the viewer know the ending of the story.
-This aligns the viewer's experience with that of the protagonist.
-Previously both have unknowingly gained awareness of an inevitable future, the death of the protagonist's unconceived child.
-This knowledge takes away the ability to impact the outcome, thus stripping both, the viewer and the protagonist, of their Free Will.
+Life before and after the _Arrival_ is the same.
+The alien spacecrafts appear out of nowhere and disappear the same way.
+They don't bring any scientific or technologic insight, but a message, that relieves those who comprehend it of their fear for the future.
+
+The message is given in the climax of the movie, when a revelation causes the protagonist, as well as the viewer, to reinterpret everything before it.
+It simultaneously also lets both know how the story will end.
+This aligns the viewer's experience with that of the protagonist, both having gained awareness of an inevitable future, the death of the protagonist's unconceived child.
+This knowledge takes away the ability to impact the outcome, thus stripping both, the viewer and the protagonist, of their free will.
 
 However the gravity of this revelation is very different.
-For the viewer this merely means loosing the suspense of an open ending where they would have to decide for themselves which of the tragic choices the protagonist takes.
+For the viewer this merely means loosing the suspense of an open ending where they can decide for themselves which of the tragic choices the protagonist takes.
 For Louise, the protagonist, the consequences are of a much more fundamental nature, best explained by analyzing the different facets of _Arrival_ [@arrival].
 
 The setup of _Arrival_ is that of a classical invasion movie.
@@ -44,12 +48,12 @@ With the tension resolved, the spacecrafts leave as if it was what they were wai
 More visions reveal that Ian and Louise end up together.
 Ian also turns out to be Hannah's father, who, as shown throughout previous visions, ends up breaking up with Louise.
 He does so because Louise tells him that she knows about Hannah's early death through visions.
-Ian disagrees with Louise, blaming her for making the wrong choice to have a baby despite knowing how short Hannah will live.
+Ian disagrees with Louise, blaming her for making the wrong choice to have Hannah, despite knowing how short her life will be.
 
-In the following it is discussed if this accusation of making a wrong choice is justified by analyzing the depiction of Free Will in _Arrival_.
-Chapter 2 lays the groundwork by examining how the movie focuses on its characters' emotions throughout the story.
-Chapter 3 focuses on communication, the _Arrival_'s central theme.
-In chapter 4 the two previous points are compared with the effects of the Heptapod language to see how the movie portrays Free Will.
+In the following it is discussed if this accusation of making a wrong choice is justified by analyzing the depiction of free will in _Arrival_.
+For this chapter 2 lays the groundwork, by examining how the movie focuses on its characters' emotions throughout the story.
+Chapter 3 focuses on communication, _Arrival_'s central theme that weaves together all story elements.
+In chapter 4 the two previous points are compared with the effects of the Heptapod language to show how the movie portrays free will.
 It also discusses the aforementioned accusation.
 Chapter 5 concludes with a brief summary of how _Arrival_ uses the deterministic nature of movies for its narrative structure.
 

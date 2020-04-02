@@ -94,7 +94,7 @@ There Costello replies with "Three thousand years from this point, humanity help
 
 The reason the aliens are on earth, is thus simply because it is necessary for history to play out the way it will.
 They need to travel to earth, so that the people of earth can in return help them 3000 years in the future.
-Or they other way round, since mankind helps them, they need to help mankind 3000 years before that.
+Or the other way round, since mankind helps them, they need to help mankind 3000 years before that.
 Much like in the short story, the aliens in the movie adaption don't have any sort of free will and no need for it either.
 They merely act like pawns, enacting the history they know will happen.
 
@@ -107,8 +107,8 @@ In the same way the spaceships leave earth at the very instant that the military
 Yet another, albeit darker, example of this is Abbott knowing of their death, but having no way of preventing it.
 
 ### Louise and Hannah
-As [previously](#twothree) discussed, before Louise got hired to communicate with aliens, she led a very mundane life.
-It is therefore to no surprise that Louise, as she states, "despite knowing the journey and where it leads", embraces the future she sees in her visions and welcomes "every moment of it".
+As [previously](#twothree) discussed, before Louise got hired to communicate with aliens, she led a very fearful and mundane life.
+By learning the Heptapod language Louise breaks with her fear of the future, and "despite knowing the journey and where it leads", embraces and welcomes "every moment of it".
 With Ian and Hannah she will finally be loved and feel alive, things that she is deeply missing in her current life.
 As the famous quote by Alfred Tennyson goes, "'tis better to have loved and lost than never to have loved at all" and thus for Louise Hannah's death is by far outweighed by all the happy times to come.
 
@@ -117,7 +117,7 @@ As the famous quote by Alfred Tennyson goes, "'tis better to have loved and lost
 <!--All these traits make her the exact opposite of the Heptapods, who are shown as plain, boring and emotionless beings, without any cultural objects or garnishments.-->
 <!--If having visions of the future made the aliens into what they are, then Louise might now value Hannah's spontaneity and creativity even more.-->
 
-But even if Louise embraces her future with Hannah, her choice merely 'coincides' with the determined future.
+But even if Louise embraces her future with Hannah, her choice merely 'coincide' with the determined future.
 At no point was there the possibility to decide against having Hannah, so it can not be said that Louise acted upon free will, but the reason for the future to be determined in the way that it is, is due to her will.
 Hence her future might be determined, but it is determined by her will.
 Thus she seems to only partly behave like a Heptapod, as she is enacting history the way she wants it to happen.

@@ -10,12 +10,13 @@ It is the counterweight to the Sci-Fi part of the movie and makes the story feel
 Villeneuve therefore describes _Arrival_ as a "dirty Sci-Fi" movie, that tries to realistically depict the events, so that it feels like they could happen "on a bad Tuesday morning". [@interview-villeneuve, at 09:03]
 To follow along with this realism the movie does not use any technology that does not already exist today.[^scripts]
 
-\pagebreak
 _Arrival_ hereby follows in the steps of _Solaris_ [@solaris], which was Andrei Tarkovsky counterexample to Stanely Kubrick's _2001: A Space Odyseey_ [@2001].
-Tarkovsky states that Kubrick's movie relies too heavily on technology and thus lacks compassion and emotions.
-Or as Tarkovsky phrases it himself: "the technological processes of the future transforms the emotional foundation of a film, as a work of art, into a lifeless schema" [@solaris-interview].
+Tarkovsky states that Kubrick's movie relies too heavily on technology and thus lacks compassion and emotions, or as
 
-Much like _Close Encounters of the Third Kind_ by Steven Spielberg [@encounters], named as an influence by screenwriter Eric Heisserer [@interview-heisserer, at 23:58], _Arrival_ follows Tarkovsky vision and focuses on relatable human lives and emotions.
+\pagebreak
+
+Tarkovsky phrases it himself: "the technological processes of the future transforms the emotional foundation of a film, as a work of art, into a lifeless schema" [@solaris-interview].
+Much like _Close Encounters of the Third Kind_ [@encounters], named as an influence by screenwriter Eric Heisserer [@interview-collider, at 7:42], _Arrival_ follows Tarkovsky's vision and spotlights relatable human lives and emotions.
 On multiple occasions throughout the movie scenes with potential for dramatic action are skipped entirely or postponed to a later point.
 This not only allows for buildup of tension, but also enables scenes to focus on characters' emotions and reactions.
 
@@ -39,18 +40,20 @@ Due to the Kuleshov effect, the viewer thinks of Louise as a sad person that has
 Accordingly all perception of further scenes with Hannah are equally perceived as flashbacks, making Louise appear to be in mourning rather than having inexplicable visions.
 
 ## The Appeal of the Unknown {#twothree}
-In reality Louise simply is a calm person, that leads a rather mundane, uneventful life.
+In reality Louise simply is a calm and timid person, that leads a mundane, fearful life.
 Actress Amy Adams describes her character as having "a profound loneliness" [@interview-amy-denis, at 12:20].
 And indeed she is lonely, as she, with a bit of sadness in her voice, reveals to Ian that she never had any real romantic relationships, despite her communication skills.
+What is perceived as grief, could just be signs of loneliness, as indicate by a scene of Louise sleeping with a body pillow.
 
-During the evacuation of the campus Louise stays undisturbed, while others are shaken up enough to crash their cars.
-Even on the day after the arrival of the spaceships, as if nothing changed, she returns to an otherwise empty university.
-What is perceived as grief could just be signs of loneliness, as indicate by a scene of Louise sleeping with a body pillow.
-Louise's calm character is displayed at the very beginning, when she walks by a big crowd of people gathering around a TV, determined to get to her teaching class.
+Louise's fearful character is displayed at the very beginning, when she walks by a big crowd of people gathering around a TV, too modest to see what is going on.
+During the evacuation of the campus Louise is so unsettled, she gets startled by a car crash.
+She soothes her mother on the phone, saying she should stay composed like her.
+But actually Louise is not all that calm and is atypically interested in the alien landings.
+So much so, that she spends the rest of the day watching the news, even falls asleep to them.
 
-But despite soothing her mother on the phone, saying she should stay composed like her, Louise is visibly interested in the alien landings.
-She spends the day watching the news, even falls asleep to them.
-When Colonel Weber considers recruiting Louise as a linguist for the army, she succeeds in convincing Weber to pick her over another candidate.
+On the next day, stuck in her routine, Louise returns to an otherwise empty university.
+There she is visited by a colonel, who is searching to recruit a linguist for the army, to aid in communicating with the aliens.
+With her interest spiked, Louise tries and success in convincing him to pick her over another candidate.
 
 Thus the viewer gets to follow Louise on her journey to meet the unknown.
 Arriving at the military base, where the camera closely follows Louise through the hallways, she gets prepared for meeting the aliens.
@@ -64,7 +67,7 @@ At the end of the tunnel is a big, bright white barrier, separating humans and a
 Its shape parallels that of the big window front in Louise's studio apartment, that is prominently featured in the opening shot and subsequent shots later on.
 Maybe this familiar shape is what leads Louise to build up enough trust and take of her helmet during the third encounter [^third], resulting in the first actual successful communication.
 
-However, when the aliens arrive for the first time, the familiar, white barrier is shrouded in darkness and fog.
+When the aliens arrive for the first time, the familiarity of the white barrier is shrouded in darkness and fog.
 The aliens are not fully visible, blurring out into mist, as if their mysterious aura is clouding the light.
 Only later, after Louise dares to step into a completely dark monolithic elevator and is transported to the other side of the barrier, the full shape of the aliens can be seen.
 There, beyond the barrier, the fog allows a white blinding ambient light to shine through.
@@ -75,9 +78,9 @@ In a vision Louise is standing in her apartment.
 The background consists of the wide window front, which is closed off by a curtain.
 She looks at the shining ceiling lamp, the only source of light in the scene.
 As the camera simultaneously pans and moves from behind Louise towards her front, Louise turns from being a mere shadow to being illuminated.
-She is now familiar with the Heptapod language, the visions no longer appear to her as coming from an unknown source.
+She is now familiar with the Heptapod language, understanding where the visions come from.
+Her fear of the future is taken away.
 But the closed curtain symbolizes that she will not receive any more help from the aliens, she is on her own now.
-
 
 [^scripts]: Even the programs with which the logograms are analyzed were created and are not mere fabrications by visual artists. See
 https://www.christopherwolfram.com/arrival, accessed 25.03.2020
